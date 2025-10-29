@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "MySQL",
+            "connectString": "Server=DESKTOP-KI5IT5Q;1433;Database=Cursovaya;User=Eduardo;Password=22332123Yaz;",
+            "name": "Cursach"
+        }
+    ]
+}
